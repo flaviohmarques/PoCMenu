@@ -176,12 +176,12 @@ O front-end se comunica com a API através dos seguintes endpoints:
 - `POST /api/auth/validate` - Validar token
 
 ### Menus
-- `GET /api/menu` - Listar todos
-- `GET /api/menu/search?nome={nome}` - Buscar por nome
-- `GET /api/menu/{id}` - Obter por ID
-- `POST /api/menu` - Criar
-- `PUT /api/menu/{id}` - Atualizar
-- `DELETE /api/menu/{id}` - Deletar
+- `GET /api/menus` - Listar todos
+- `GET /api/menus/search?nome={nome}` - Buscar por nome
+- `GET /api/menus/{id}` - Obter por ID
+- `POST /api/menus` - Criar
+- `PUT /api/menus/{id}` - Atualizar
+- `DELETE /api/menus/{id}` - Deletar
 
 Todos os endpoints (exceto login) requerem autenticação JWT no header:
 ```

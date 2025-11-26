@@ -148,12 +148,12 @@ Authorization: Bearer {seu_token_aqui}
 
 | Método | Endpoint | Descrição | Auth |
 |--------|----------|-----------|------|
-| GET | `/api/menu` | Lista todos os menus | Sim |
-| GET | `/api/menu/search?nome={nome}` | Busca menus por nome | Sim |
-| GET | `/api/menu/{id}` | Obtém menu por ID | Sim |
-| POST | `/api/menu` | Cria novo menu | Sim |
-| PUT | `/api/menu/{id}` | Atualiza menu | Sim |
-| DELETE | `/api/menu/{id}` | Deleta menu | Sim |
+| GET | `/api/menus` | Lista todos os menus | Sim |
+| GET | `/api/menus/search?nome={nome}` | Busca menus por nome | Sim |
+| GET | `/api/menus/{id}` | Obtém menu por ID | Sim |
+| POST | `/api/menus` | Cria novo menu | Sim |
+| PUT | `/api/menus/{id}` | Atualiza menu | Sim |
+| DELETE | `/api/menus/{id}` | Deleta menu | Sim |
 
 #### Autenticação
 
