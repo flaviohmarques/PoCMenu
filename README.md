@@ -60,16 +60,20 @@ Ensure you have the following installed on your machine:
     cd menu_poc
     ```
 
-2.  Install the JavaScript dependencies:
+2.  Install the pnpm:
     ```bash
-    npm install
+    npm install -g pnpm
     ```
 
-3.  Start the React application:
+3.  Install the dependencies:
     ```bash
-    npm start
+    pnpm install
     ```
 
+4.  Start the React application locally:
+    ```bash
+    pnpm dev
+    ```
     > The application should automatically open in your default browser at `http://localhost:3000`.
 
 ## 🤝 Contributing
