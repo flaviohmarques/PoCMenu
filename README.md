@@ -50,7 +50,7 @@ Ensure you have the following installed on your machine:
 
 3.  Run the API:
     ```bash
-    dotnet run
+    dotnet run --project "MenuManagementAPI.Presentation\MenuManagementAPI.WebApi.csproj" --urls "https://localhost:7241"
     ```
 
 ### 2. Frontend Setup
