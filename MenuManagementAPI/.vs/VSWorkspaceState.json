@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MenuManagementAPI.Infrastructure",
+    "\\MenuManagementAPI.Infrastructure\\bin",
+    "\\MenuManagementAPI.Presentation",
+    "\\MenuManagementAPI.Presentation\\Controllers",
+    "\\MenuManagementAPI.Presentation\\Middleware",
+    "\\MenuManagementAPI.Presentation\\obj",
+    "\\MenuManagementAPI.Presentation\\Properties"
+  ],
+  "SelectedNode": "\\MenuManagementAPI.Presentation",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MenuManagementAPI.Application/MenuManagementAPI.Application.csproj" />
+  <Project Path="MenuManagementAPI.Domain/MenuManagementAPI.Domain.csproj" />
+  <Project Path="MenuManagementAPI.Infrastructure/MenuManagementAPI.Infrastructure.csproj" />
+  <Project Path="MenuManagementAPI.Presentation/MenuManagementAPI.WebApi.csproj" />
+</Solution>
